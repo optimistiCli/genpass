@@ -1,5 +1,4 @@
-# genpass
-## Handy CLI password generator
+# Handy CLI password generator
 ```
 Usage:
   genpass.sh [-hlLuUdDsSXaAq] [-x <character list>] [-n <number>] [<length>]
